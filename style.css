@@ -1,0 +1,64 @@
+.container{
+    padding: 40px 60px;
+    
+}
+.navbar-brand img{
+    width: 150px;
+}
+.carousel-item{
+    padding: 0px 20px;
+}
+.buy-now-button{
+    background-color: black;
+    color: white;
+    font-size: 15px;
+    border: none;
+    border-radius: 5px;
+    padding: 8px 25px;
+
+}
+.card{
+    border: none;
+    box-shadow: 2px 2px 5px;
+    padding: 40px 50px;
+    border-radius: 8px;
+}
+.card p{
+    color: gray;
+}
+.card-head h6{
+    color: orange;
+}
+.card-footer{
+    border: none;
+    background-color: white;
+}
+.cat-highlight-button{
+    background-color: orange;
+    border: none;
+    border-radius: 10px;
+    padding: 5px 60px;
+    text-underline-position: center;
+
+}
+.cat1{
+    border: none;
+    box-shadow:2px 2px 5px;
+    padding: 5px 10px;
+    margin-right: 30px;
+}
+.cat2{
+    border: none;
+    box-shadow:2px 2px 5px;
+    padding: 5px 10px;
+    margin-right: 30px;
+}
+.cat3{
+    border: none;
+    box-shadow:2px 2px 5px;
+    padding: 40px 60px;
+    
+}
+.cat3 img{
+    height: 400px;
+}
